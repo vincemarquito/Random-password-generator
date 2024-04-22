@@ -11,4 +11,4 @@ function generatePassword(length) {
 const password = generatePassword(10); // <--- adjust the password length if you want
 console.log(password);
 
-// Run on console or just link on your html file
+// Run on console or just link it on your html file
